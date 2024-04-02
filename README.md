@@ -1,5 +1,6 @@
 
-![image](https://i.hizliresim.com/7kbbsyx.png)
+
+<img src="https://i.hizliresim.com/7kbbsyx.png" width="200" />
 <!--
 **solidsonder/solidsonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
