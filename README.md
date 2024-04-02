@@ -16,3 +16,22 @@
 </div>
 
 ###
+
+| Character    | Specialities                                                     |
+|:-------------|:-----------------------------------------------------------------|
+| Solid Snake  | Espionage expert, Close Quarters Combat (CQC), stealth operations, survivalist, proficient in multiple weapons |
+| Big Boss     | CQC master, unparalleled leadership, guerrilla warfare expert, survival skills, charismatic leader |
+| Ocelot       | Expert interrogator, unmatched marksmanship, master of double-crossing, psychological warfare specialist |
+| Raiden       | Mastery of high-frequency swords, advanced cybernetic enhancements, skilled in CQC, adept at stealth and infiltration |
+| The Boss     | Originator of CQC, tactical genius, inspirational leadership, unmatched in guerrilla warfare, emotional resilience |
+| Liquid Snake | Exceptional leadership, CQC expertise, genetically enhanced soldier, master strategist, skilled pilot |
+| Revolver Ocelot | Legendary gunsligning, expert in torture techniques, manipulation and psychological warfare, deep undercover operations |
+| Quiet        | Supernatural sniping skills, stealth expert, possesses supernatural abilities including invisibility and superhuman agility |
+| Psycho Mantis | Psychic abilities including telepathy and telekinesis, mind control, emotional manipulation, can read and manipulate memories |
+| Venom Snake  | Skilled in espionage, advanced combat and CQC, leadership with charisma, adept in using prosthetic tools for tactical advantage |
+| Skull Face   | Strategic genius, manipulation and coercion, multilingualism, expertise in psychological warfare, knowledge of bioweapons |
+| Otacon       | Expert hacker, advanced knowledge in science and engineering, skilled in stealth technology, emotional intelligence |
+| Meryl Silverburgh | Expert markswanship, strong leadership qualities, CQC proficiency, high physical endurance, strategic thinker |
+| Gray Fox     | Expert in CQC and stealth, enhanced reflexes and strength as a cyborg ninja, proficient in swordsmanship, psychological resilience |
+| Vamp         | Expert knife combatant, possesses supernatural abilities including regeneration and immortality, skilled in stealth and assassination |
+
