@@ -1,4 +1,4 @@
 <p align="center">
   <img src="https://github.com/solidsonder/solidsonder/blob/main/solidsonner.png" alt="Welcome"/>
 </p>
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+<h1 align="center">Hi, I'm Solidsondër (@solidsonder)</h1>
