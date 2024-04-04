@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.hizliresim.com/2gzvjbs.png"  />
+  <img src="https://github.com/solidsonder/solidsonder/blob/main/solidsonner.png"  />
 </div>
 
 ###
